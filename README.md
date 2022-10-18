@@ -1,6 +1,10 @@
 # Hallosonne Coding Challange
 
 ## Sharing Screenshot
+<img src="![homescreen](https://user-images.githubusercontent.com/102354875/196391378-f4807943-6efa-4953-a158-38d06f420e09.png)
+"></img>
+<img src="![resolvescreen](https://user-images.githubusercontent.com/102354875/196391498-5dfb84a3-55d5-4ba3-a018-eb44ea4f9034.png)
+"></img>
 
 ## Tools
 

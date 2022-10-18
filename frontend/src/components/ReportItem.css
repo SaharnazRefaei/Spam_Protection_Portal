@@ -1,0 +1,41 @@
+.report-item {
+  margin: 1rem;
+  width: calc(85% - 2rem);
+  min-width: 17.5rem;
+}
+
+.report-item__content {
+  padding: 0;
+}
+
+.report-item__info h2 {
+  font-size: 1rem;
+  margin: 0 0 0.5rem 0;
+  font-weight: normal;
+  color: #0b0a01;
+}
+.report-item__info span {
+  font-weight: bold;
+
+}
+.report-item__left {
+  float: left;
+  width:200px;
+  margin: 20px 20px 20px;
+}
+.report-item__middle {
+  float: left;
+  width:200px;
+  margin: 20px 20px 20px;
+}
+.report-item__right {
+  float: left;
+  width:100px;
+  margin: 30px 20px 30px;
+}
+.report-item:hover h2,
+.report-item:active h2 {
+  color: #180ee6;
+}
+
+

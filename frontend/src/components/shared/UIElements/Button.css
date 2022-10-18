@@ -1,0 +1,76 @@
+.button {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #43b7e1;
+  border-radius: 4px;
+  background: #43b7e1;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  padding:10px;
+  margin-bottom: 5px;
+  width:80px;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:hover,
+.button:active {
+  background: #43b7e1;
+  border-color: #43b7e1;
+}
+
+.button--info {
+  background: #e8edf6;
+  border-color:#e8edf6;
+  color: #1130b8;
+}
+
+.button--info:hover,
+.button--info:active {
+  color: white;
+  background: #7f8081;
+  border-color:#7f8081;
+}
+
+.button--accept {
+  background: #0ec50b;
+  border-color: #0ec50b;
+}
+
+.button--accept:hover,
+.button--accept:active {
+  background: #037737;
+  border-color: #037737;
+}
+.button--reject {
+  background: #bc3315;
+  border-color: #bc3315;
+}
+
+.button--reject:hover,
+.button--reject:active {
+  background: #500303;
+  border-color: #500303;
+}
+
+.button:disabled,
+.button:hover:disabled,
+.button:active:disabled {
+  background: #ccc;
+  color: #979797;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+.button--small {
+  font-size: 0.8rem;
+}
+
+.button--big {
+  font-size: 1.5rem;
+}
